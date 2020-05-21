@@ -24,10 +24,11 @@ This project will rely on the following technologies:
 * Python
 * nilearn/scikit-learn 
 * Git/Github
-* Docker (maybe)
 * Visual Studio Code
 * Terminal 
 * Jupyter notebook
+* Visualization packages (matplotlib, plotly)
+* Docker (maybe)
 
 ### Data 
 
@@ -37,8 +38,10 @@ TODO: What data will I be using?
 
 At the end of this project, I will have the following:
 * README.md file 
+* requirements.txt file outline the packages needed to run the script
 * Jupyter notebook with code that implements a machine learning algorithm, as well as explanations and processes 
 * GitHub repository with all project components 
+* Presentation showing project results 
 
 ## Results 
 
@@ -47,9 +50,7 @@ At the end of this project, I will have the following:
 TODO: Progress on project so far
 
 ### Tools I learned during this project
-* 
-* 
-* 
+To be updated soon...
  
 ### Results 
 
