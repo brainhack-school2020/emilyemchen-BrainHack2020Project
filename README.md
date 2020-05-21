@@ -21,6 +21,11 @@ Hello! I am an (incoming) fourth year undergraduate student at McGill University
 
 You can find me on GitHub at [emilyemchen](https://github.com/emilyemchen) and on Twitter at [@emilyemchen](https://twitter.com/emilyemchen). 
 
+### Main Goals
+* While I've worked with machine learning using Amazon Web Services to classify city infrastructure before, I am really looking forward to learning how to write machine learning python scripts for neuroscience data. 
+* I hope to get a good understanding of project management and reproducibility efforts because I may not be in charge of a research project yet but want to get into the habit for future work. 
+* I am very new to neuroscience, so I hope to learn more from the many talented neuroscience researchers/BrainHack School participants through collaboration!  
+
 ### Tools 
 
 This project will rely on the following technologies: 
