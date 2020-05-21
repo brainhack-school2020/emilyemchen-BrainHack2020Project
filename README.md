@@ -16,31 +16,29 @@ brainhack-school, project, machine-learning, eeg
 
 ### Background
 
-TODO: Who am I? 
-
-### Objectives 
-* What general topic(s) do I want to work on? 
-* What skills do I want to learn? 
-* What resources will I use? 
-* What objectives do I wnat to achieve? 
-* What will the outcome of my project be? 
+Hello! I am an (incoming) fourth year undergraduate student at McGill University studying computer science and urban health geography with a minor in cognitive science. I am a research assistant with [Isabelle Arseneau-Bruneau](https://github.com/brainhack-school2020/ArsIsabelle_BHS_Project) in the Zatorre Lab and have been learning a lot about neuroscience research while (hopefully) lending some of my technical skills to Isabelle's PhD work exploring the effect of musical training on FFR. I joined the BrainHack School to learn technical research methods (e.g. machine learning) and work with neuroscience data. My main goal for the project I end up working on, whether it's my own or a collaboration with someone else (I am very open to working with others!), is to gain a strong grasp of machine learning, try out containerization, and use appropriate softwares and project organization to ensure reproducibility.  
 
 ### Tools 
 
 This project will rely on the following technologies: 
-* 
-* 
-* 
+* Python
+* nilearn/scikit-learn 
+* Git/Github
+* Docker (maybe)
+* Visual Studio Code
+* Terminal 
+* Jupyter notebook
 
 ### Data 
 
+TODO: What data will I be using? 
 
 ### Deliverables
 
-At the end of this project, I will have:
-* 
-* 
-* 
+At the end of this project, I will have the following:
+* README.md file 
+* Jupyter notebook with code that implements a machine learning algorithm, as well as explanations and processes 
+* GitHub repository with all project components 
 
 ## Results 
 
