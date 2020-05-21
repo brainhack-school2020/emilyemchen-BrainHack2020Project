@@ -8,7 +8,7 @@ Source: https://www.futurithmic.com/2019/04/12/why-you-should-study-ai-machine-l
 
 ## Summary 
 
-My personal goal for this project is to implement 2-3 machine learning classifier algorithms and learn how to use the various visualization tools available for the Python language. Since these goals seem to align well with many other participants' goals, I am very open to collaborating with others and not at all picky about the dataset being used! That being said, for the purposes of this proposal, I found an open source EEG dataset from a study investigating EEG neural responses and music-induced emotion. One possibility for this project would be to teach an algorithm how to recognize and classify the EEG neural responses that correlate to specific emotions induced by listening to music. 
+My personal goal for this project is to implement 2-3 machine learning classifier algorithms and learn how to use the various visualization tools available for the Python language. Since these goals seem to align well with many other participants' goals, I am very open to collaborating with others and not at all picky about the dataset being used! That being said, for the purposes of this proposal, I found an open source EEG dataset from a study investigating EEG neural responses and music-induced emotion. One possibility for this project would be to teach an algorithm how to recognize and classify the EEG neural responses that correlate to specific emotions induced by listening to music. Another possibility would be at the data preprocessing stage by trying to see how much noise can be reduced from an EEG dataset using various machine learning algorithms. 
 
 ### Key Words
 brainhack-school, project, machine-learning, eeg
@@ -25,6 +25,8 @@ You can find me on GitHub at [emilyemchen](https://github.com/emilyemchen) and o
 * While I've worked with machine learning using Amazon Web Services to classify city infrastructure before, I am really looking forward to learning how to write machine learning python scripts for neuroscience data. 
 * I hope to get a good understanding of project management and reproducibility efforts because I may not be in charge of a research project yet but want to get into the habit for future work. 
 * I am very new to neuroscience, so I hope to learn more from the many talented neuroscience researchers/BrainHack School participants through collaboration!  
+
+Note: as these goals are quite broad, I am very happy to collaborate with others and/or join with another team. 
 
 ### Tools 
 
